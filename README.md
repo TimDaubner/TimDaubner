@@ -1,4 +1,5 @@
 # Tim Daubner
+<a><img src="assets/InBug-White.png">
 <p>
 I'm a game production professional based in Germany with a passion for interactive media, technology, and digital storytelling. With a background in game development and production, my focus is on turning creative ideas into engaging and well-structured interactive experiences. 
 </p>
