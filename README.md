@@ -17,9 +17,9 @@ I'm a game production professional based in Germany with a passion for interacti
 My work combines technical understanding with creative problem-solving, allowing me to coordinate projects, support development teams, and guide productions from concept to completion. Through my training in game development and media production, i have built strong skills in project organization, collaboration, and the creative process behind digital games. 
 </p>
 <br>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=TimDaubner)](https://git.io/streak-stats)
 <br>
 <p>
 I'm particularly interested in the intersection of technology, design, and user experience, and enjoys exploring new tools and workflows that improve how interactive projects are built and delivered.
 </p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=TimDaubner)](https://git.io/streak-stats)
 
