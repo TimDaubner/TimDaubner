@@ -1,14 +1,14 @@
 # Tim Daubner
-<br>
-<p align="center">
-    <!-- <img src="assets/H9zM.gif" alt="Demo of the app's login flow" margin-top="24px" width="200" height="300">   -->
-    <img src="assets/YdBO.gif" alt="Demo of the app's login flow" margin-top="24px" width="100%" height="30px">  
-</p>
 <a href="https://www.tim-daubner.de" target="_blank"><img src="assets/td_logo1.png" style="width:64px; height:48px margin-right:100px"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/tim-daubner-847b47272/" target="_blank"><img src="assets/ln.png" style="width:64px; height:64px; max-width:100%; margin-left:10px;"></a>
 <p>
 I'm a game production professional based in Germany with a passion for interactive media, technology, and digital storytelling. With a background in game development and production, my focus is on turning creative ideas into engaging and well-structured interactive experiences. 
 </p>
+</p>
+<br>
+<p align="center">
+    <!-- <img src="assets/H9zM.gif" alt="Demo of the app's login flow" margin-top="24px" width="200" height="300">   -->
+    <img src="assets/YdBO.gif" alt="Demo of the app's login flow" margin-top="24px" width="100%" height="30px">  
 </p>
 <br>
 <p>
