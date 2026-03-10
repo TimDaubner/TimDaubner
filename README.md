@@ -20,4 +20,4 @@ My work combines technical understanding with creative problem-solving, allowing
 I'm particularly interested in the intersection of technology, design, and user experience, and enjoys exploring new tools and workflows that improve how interactive projects are built and delivered.
 </p>
 
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Naereen's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Naereen&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
