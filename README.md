@@ -1,6 +1,6 @@
 # Tim Daubner
 <a href="https://www.tim-daubner.de" target="_blank"><img src="assets/td_logo.png" style="width:64px; height:48px margin-right:100px"></a>
-<a href="https://www.linkedin.com/in/tim-daubner-847b47272/" target="_blank"><img src="assets/ln.png" style="width: 64px;height: 64px;max-width: 100%;margin-left: 10px;"></a>
+<a href="https://www.linkedin.com/in/tim-daubner-847b47272/" target="_blank"><img src="assets/ln.png" style="width: 64px;height: 64px;max-width: 100%; margin-left: 10px;"></a>
 <p>
 I'm a game production professional based in Germany with a passion for interactive media, technology, and digital storytelling. With a background in game development and production, my focus is on turning creative ideas into engaging and well-structured interactive experiences. 
 </p>
