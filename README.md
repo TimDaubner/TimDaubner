@@ -20,4 +20,4 @@ My work combines technical understanding with creative problem-solving, allowing
 I'm particularly interested in the intersection of technology, design, and user experience, and enjoys exploring new tools and workflows that improve how interactive projects are built and delivered.
 </p>
 
-[![Naereen's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Naereen&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![Naereen's github streak](https://github-readme-streak-stats.herokuapp.com/?user=TimDaubner)](https://github.com/DenverCoder1/github-readme-streak-stats)
