@@ -4,7 +4,9 @@ I'm a game production professional based in Germany with a passion for interacti
 </p>
 <br>
 <br>
-<img src="assets/H9zM.gif" alt="Demo of the app's login flow" margin-top="24px" width="200" height="300">  
+<div width="100%" height="300" style="background-color:black; display:inline-block; padding:10px;">
+    <img src="assets/H9zM.gif" alt="Demo of the app's login flow" margin-top="24px" width="200" height="300">  
+</div>
 <br>
 <br>
 <p>
