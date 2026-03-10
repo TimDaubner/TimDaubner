@@ -1,4 +1,4 @@
-<h1>Tim Daubner</h1> <p style="font-size:10px">Programmer</p>
+# Tim Daubner
 <a href="https://www.tim-daubner.de" target="_blank"><img src="assets/td_logo1.png" style="width:64px; height:48px margin-right:100px"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/tim-daubner-847b47272/" target="_blank"><img src="assets/ln.png" style="width:64px; height:64px; max-width:100%; margin-left:10px;"></a>
 <p>
