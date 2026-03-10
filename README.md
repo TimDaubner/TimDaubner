@@ -1,4 +1,4 @@
-<h1 font-size="1">Tim Daubner</h1>
+<h1 font-size:1>Tim Daubner</h1>
 <p>
 I'm a game production professional based in Germany with a passion for interactive media, technology, and digital storytelling. With a background in game development and production, my focus is on turning creative ideas into engaging and well-structured interactive experiences. 
 </p>
