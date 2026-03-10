@@ -3,7 +3,7 @@
 I'm a game production professional based in Germany with a passion for interactive media, technology, and digital storytelling. With a background in game development and production, my focus is on turning creative ideas into engaging and well-structured interactive experiences. 
 </p>
 <br>
-<p align="center" style="background-color:black; display:inline-block; padding:10px;">
+<p align="center" style="background-color:yellow;">
     <img src="assets/H9zM.gif" alt="Demo of the app's login flow" margin-top="24px" width="200" height="300">  
 </p>
 <br>
