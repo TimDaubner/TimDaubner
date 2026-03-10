@@ -2,7 +2,7 @@
 <a href="https://www.tim-daubner.de" target="_blank"><img src="assets/td_logo1.png" style="width:64px; height:48px margin-right:100px"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/tim-daubner-847b47272/" target="_blank"><img src="assets/ln.png" style="width:64px; height:64px; max-width:100%; margin-left:10px;"></a>
 
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://www.tim-daubner.de)
 
 <p>
 I'm a game production professional based in Germany with a passion for interactive media, technology, and digital storytelling. With a background in game development and production, my focus is on turning creative ideas into engaging and well-structured interactive experiences. 
