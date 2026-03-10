@@ -5,9 +5,7 @@ I'm a game production professional based in Germany with a passion for interacti
 `
 </p>
 <p>
-`
-My work combines technical understanding with creative problem-solving, allowing me to coordinate projects, support development teams, and guide productions from concept to completion. Through my training in game development and media production, i have built strong skills in project organization, collaboration, and the creative process behind digital games. 
-`
+`My work combines technical understanding with creative problem-solving, allowing me to coordinate projects, support development teams, and guide productions from concept to completion. Through my training in game development and media production, i have built strong skills in project organization, collaboration, and the creative process behind digital games.` 
 </p>
 <p>
 `
