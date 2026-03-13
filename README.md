@@ -8,6 +8,7 @@ I'm a game production professional based in Germany with a passion for interacti
 </p>
 </p>
 <br>
+## My GitHub Contributions
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TimDaubner&theme=github)
 <p align="center">
     <!-- <img src="assets/H9zM.gif" alt="Demo of the app's login flow" margin-top="24px" width="200" height="300">   -->
