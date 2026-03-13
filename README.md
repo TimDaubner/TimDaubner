@@ -9,7 +9,7 @@ I'm a game production professional based in Germany with a passion for interacti
 </p>
 <br>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TimDaubner&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TimDaubner&layout=compact&theme=tokyonight)
 <p align="center">
     <!-- <img src="assets/H9zM.gif" alt="Demo of the app's login flow" margin-top="24px" width="200" height="300">   -->
     <img src="assets/YdBO.gif" alt="Demo of the app's login flow" margin-top="24px" width="100%" height="30px">  
